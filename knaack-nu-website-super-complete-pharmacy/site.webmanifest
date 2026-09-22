@@ -1,0 +1,15 @@
+{
+  "name": "Knaack Nu Pharmacy",
+  "short_name": "Knaack Nu",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#0d4b4a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
